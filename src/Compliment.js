@@ -2,7 +2,7 @@ import React from 'react';
 
 //compliment comment
 function Compliment () {
-    let data = [
+    const compliments = [
         "Good effort!",
         "What a fine sweater!",
         "I appreciate all of your opinions.",
