@@ -1,6 +1,6 @@
 import React from 'react';
 
-//compliment comment
+//compliment comment.
 function Compliment () {
     let data = [
         "Good effort!",
