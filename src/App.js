@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Hello from './Hello';
-import Compliment from './Compliment';
+import Compliment from './Compliments';
 //commit
 
 function App() {
